@@ -31,6 +31,8 @@ To run the Note-Taking Application on your local machine, follow these steps:
 ```npm start```
 
 5. Open your web browser and access the application at [http://localhost:3000](http://localhost:3000).
+  
+6. Or view the deployed application on Heroku! https://polar-mountain-93462-902a00e5652c.herokuapp.com/ 
 
 ## Usage
 
