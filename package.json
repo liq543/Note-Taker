@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/liq543/Note-Taker/issues"
   },
-  "homepage": "https://github.com/liq543/Note-Taker#readme"
+  "homepage": "https://github.com/liq543/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13"
+  }
 }
